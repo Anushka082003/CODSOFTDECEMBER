@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703739790 source:e:\internship\codsoft c++\to do list.cpp\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
